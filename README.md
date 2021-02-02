@@ -27,7 +27,7 @@ If you use this data in your research, please cite the following publications:
 
 @inproceedings{tyers-etal-2016-finite,
   title = {A Finite-state Morphological Analyser for Tuvan},
-  author = "Francis M. Tyers and Jonathan North Washington and Aziyana Bayyr-ool and Aelita Salchak},
+  author = {Francis M. Tyers and Jonathan North Washington and Aziyana Bayyr-ool and Aelita Salchak},
   booktitle = {Proceedings of the Tenth International Conference on Language Resources and Evaluation ({LREC}'16)},
   year = {2016},
   url = "https://www.aclweb.org/anthology/L16-1407",
