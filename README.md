@@ -13,6 +13,13 @@ Apertium data collection and annotation: Francis M. Tyers, Jonathan North Washin
 
 For data collection methodology, see Tyers et al., [A Finite-state Morphological Analyser for Tuvan](https://www.aclweb.org/anthology/L16-1407/) and Washington et al., [Development of a finite-state model for morphological processing of Tuvan](http://rodyaz.ru/pdf/no.4_2016/Washington%20J.,%20Bayyr-ool%20A.,%20Salchak%20A.,%20Tyers%20F.%20Development%20of%20a%20finite-state%20model%20for%20morphological%20processing%20of%20Tuvan.pdf)
 
+## Language-specific tags
+
+* ``NPST``: nonpast tense (present/future tense, aorist)
+* ``PST;LGSPEC1``: definite past tense (assertive past, recent past)
+* ``PST;LGSPEC2``: indefinite past tense (non-assertive past)
+* ``PRF;LGSPEC3``: resultative aspect
+
 ## References
 
 If you use this data in your research, please cite the following publications:
