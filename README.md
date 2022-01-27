@@ -1,5 +1,5 @@
-# tyv
-Tuvan
+# Tuvan (tyv)
+Contains Tuvan paradigms
 
 ## Data
 
